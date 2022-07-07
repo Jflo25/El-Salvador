@@ -1,0 +1,100 @@
+body{
+  background-color: #5584AC;
+  margin: 0;
+}
+h1{
+  text-align: center;
+ margin-top: 3.125rem;
+ font-family: luminari, cursive, monospace;
+ font-size: 5rem;
+}
+.top{
+  background-image: url("file:///C:/Users/jjflo/Downloads/volcano.jpg");
+margin: 5rem 12.5rem;
+padding-bottom: 35rem;
+background-size: cover;
+background-position: center;
+}
+.intro {
+  padding-top: 5rem;
+  margin: 0 3.125rem;
+  font-family: verdana;
+  line-height: 1.5;
+  font-size: 2rem;
+  text-align: center;
+  color: white;
+}
+hr {
+border: 5px solid black;
+}
+
+
+.first{
+    color:#E6D5B8;
+    margin: 10rem 25rem 10rem 25rem;
+    text-align: justify;
+    line-height: 2;
+    font-size: 1.35rem
+}
+p {
+  padding-bottom: 3rem;
+}
+.island {
+  float: left;
+  margin-right: 3rem;
+  width:25%;
+}
+.volcano {
+  color:#E6D5B8;
+  margin: 10rem 25rem 10rem 25rem;
+  text-align: right;
+  line-height: 2;
+  font-size: 1.35rem;
+  padding-top: 2rem;
+}
+.volcano-pic {
+  float: right;
+  margin: 3rem 0 0 3rem;
+  max-width: 24%;
+height: auto;
+}
+
+.towns{
+  color:#E6D5B8;
+  margin: 10rem 25rem 10rem 25rem;
+  text-align: justify;
+  line-height: 2;
+  font-size: 1.35rem
+}
+.town-pic{
+  float: left;
+  margin-right: 3rem;
+  width:25%;
+}
+.suchitoto {
+  color:#E6D5B8;
+  margin: 10rem 25rem 10rem 25rem;
+  text-align: right;
+  line-height: 2;
+  font-size: 1.35rem;
+  padding-top: 2rem;
+  padding-left: .5rem;
+}
+.suchitoto-pic{
+  float: right;
+  margin: 3rem 0 0 3rem;
+  max-width: 24%;
+height: auto;
+}
+.salinitas{
+  color:#E6D5B8;
+  margin: 10rem 25rem 10rem 25rem;
+  text-align: justify;
+  line-height: 2;
+  font-size: 1.35rem
+}
+.salinitas-pic{
+  float: left;
+  margin-right: 3rem;
+  width:25%;
+}
